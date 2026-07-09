@@ -1,7 +1,5 @@
 Thank you guys for 2 years, it's been a pleasure <3
 
-Forked by alt037181 DONT attack me
-
 <p align="center">
   <a href="#"><img src="Resources/GitHub/icon.png"></a>
   <a href="#"><img src="Resources/GitHub/title.png"></a>
@@ -18,6 +16,7 @@ Forked by alt037181 DONT attack me
 ---
 
 # <img src="Resources/GitHub/cone-emoji.png" height=26px> ii's Stupid Menu  
+<sub>Bringing back iidk</sub>
 
 ii's Stupid Menu is a **feature-packed** mod menu for Gorilla Tag, built by me, [**iiDk**](https://github.com/iiDk-the-actual). Whether you just want mods, are a developer, or anything inbetween, this menu has you covered. Designed to be **as useful as possible**, it includes a variety of features and options that let you customize your modding experience to your heart’s content.  
 
